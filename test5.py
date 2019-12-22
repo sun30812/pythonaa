@@ -1,5 +1,5 @@
 a = 12
-b = 14
+b = 19
 
 import os
 
@@ -11,4 +11,6 @@ def main() :
         os.system("exit")
 
 def app2():
+	print('만드는 중..')
+	
 main()
