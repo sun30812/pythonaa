@@ -1,5 +1,5 @@
 def app1():
     print('Hello, World!')
-    print("ㅇ아안ㄴ녀녕")
+    print("안녕")
 
 app1()
